@@ -1,2 +1,3 @@
-ruby標準ライブラリのcsv[https://github.com/ruby/csv]の文字コード周りを調査する
+ruby標準ライブラリの文字コード周りを調査する
 
+ref: https://github.com/ruby/csv
